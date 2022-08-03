@@ -1,8 +1,8 @@
 # SVMwithGEEMPC
-**This is a supporting material of a research paper (Analyzing large-scale Data Cubes with user-defined algorithms: A cloud-native approach). 
-Please refer to https://doi.org/10.1016/j.jag.2022.102784
+**This is a supporting material of a research paper (Analyzing large-scale Data Cubes with user-defined algorithms: A cloud-native approach). **
+**Please refer to https://doi.org/10.1016/j.jag.2022.102784**
 
-The project contians scripts to perform a SVM-based land cover classification based on all bands of Sentinel2-L2A.**
+**The project contians scripts to perform a SVM-based land cover classification based on all bands of Sentinel2-L2A.**
 
 
 **NOTE: The script is only used for testing the performance of platforms, the accuray of classification is not verified.**
